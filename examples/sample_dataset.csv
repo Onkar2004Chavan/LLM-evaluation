@@ -1,0 +1,4 @@
+question,expected_answer,context,actual_answer
+"What is the capital of France?","Paris is the capital of France.","France is a country in Europe. Its capital city is Paris.","The capital of France is Paris."
+"What does HTTP stand for?","Hypertext Transfer Protocol.","HTTP stands for Hypertext Transfer Protocol and is used for communication on the web.","HTTP means Hypertext Transfer Protocol."
+"What is the boiling point of water at sea level?","About 100 degrees Celsius.","At standard atmospheric pressure, pure water boils at 100°C.","Water boils at about 100°C at sea level."

@@ -1,0 +1,2 @@
+{"question":"What is the capital of France?","expected_answer":"Paris is the capital of France.","context":"France is a country in Europe. Its capital city is Paris.","actual_answer":"The capital of France is Paris."}
+{"question":"What does HTTP stand for?","expected_answer":"Hypertext Transfer Protocol.","context":"HTTP stands for Hypertext Transfer Protocol and is used for communication on the web.","actual_answer":"HTTP means Hypertext Transfer Protocol."}

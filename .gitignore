@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+.env.*
+!.env.example
+minieval_results.json
+minieval_results.csv
+.streamlit/secrets.toml
